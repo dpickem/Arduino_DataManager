@@ -34,7 +34,7 @@ DataManager<int> *myDataManager = new DataManager<int>();
 DataManager<MyClass> *myDataManager = new DataManager<MyClass>();
 ```
 
-#### High-level API methods.
+#### High-level API methods
 ```c++
 // To add a new element or update an existing one.
 myDataManager.update("variable_name", value);
@@ -46,7 +46,7 @@ bool exists = myDataManager.exists("variable_name");
 bool is_new = myDataManager.has_new_data();
 ```
 
-#### Getting the size of the data storage container in the DataManager instance.
+#### Getting the size of the data storage container in the DataManager instance
 ```c++
 // To get the size of a linked list, make use of the size() method
 int data_size = myDataManager.get_size();
