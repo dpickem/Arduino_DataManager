@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DataManager	  KEYWORD1
+DataContainer KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update	             KEYWORD2
+exists	             KEYWORD2
+has_new_data	     KEYWORD2
+get_entry_by_name    KEYWORD2
+remove_entry_by_name KEYWORD2
+get_size             KEYWORD2
+get_name             KEYWORD2
+get_is_new	         KEYWORD2
+get_value	         KEYWORD2
+set_value	         KEYWORD2
+set_is_new	         KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

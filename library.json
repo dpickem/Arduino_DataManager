@@ -1,0 +1,12 @@
+{
+    "name": "Arduino_DataManager",
+    "keywords": "pattern",
+    "description": "A class that enables the storing, updating, and managing of key-value pairs.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/dpickem/Arduino_DataManager.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
